@@ -1,0 +1,15 @@
+# Python
+backend/venv/
+backend/__pycache__/
+backend/**/__pycache__/
+backend/**/*.pyc
+backend/.env
+backend/fireflies.db
+
+# macOS
+.DS_Store
+
+# Node (frontend has its own .gitignore)
+frontend/node_modules/
+frontend/.next/
+frontend/*.tsbuildinfo
